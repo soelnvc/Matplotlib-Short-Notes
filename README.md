@@ -8,9 +8,10 @@ A beginner-friendly, structured guide to mastering data visualization in Python.
 3. **[Mastering Subplots](./Notes/subplots.ipynb)**: Learning the **Object-Oriented (OO) API** to create multi-plot dashboards.
 4. **[Pandas Integration](./Notes/pandaswithplt.ipynb)**: Visualizing real-world datasets and mapping categorical colors.
 
+Created by Siddhesh Goel👊🏻
+
 ## 🛠️ Setup
 ```bash
 git clone [https://github.com/soelnvc/Matplotlib-Short-Notes.git](https://github.com/soelnvc/Matplotlib-Short-Notes.git)
 pip install -r requirements.txt
 
-Created by Siddhesh Goel
